@@ -1,0 +1,13 @@
+{
+  "name": "firebase-cloud-functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "write-env": "node ./scripts/write-env.cjs",
+    "remove-console-log": "node ./scripts/console.logs.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
